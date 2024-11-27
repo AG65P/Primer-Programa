@@ -6,7 +6,8 @@ public class HolaMundo {
         
         int a = 4;
         int b = 3;
-        int suma = a + b;
+        int c = 776;
+        int suma = a + b + c;
 
         System.out.println("La suma de " + a + " y " + b + " es: " + suma);
     }
